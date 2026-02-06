@@ -1,0 +1,5 @@
+{
+  "name": "uber",
+  "description": "Una herramienta ultra rápida y minimalista diseñada para conductores de Uber, permitiendo calcular el cambio de forma eficiente con botones de acceso rápido y una interfaz de alto contraste.",
+  "requestFramePermissions": []
+}
